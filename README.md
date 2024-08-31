@@ -7,3 +7,4 @@ This is a personal resume portfolio website built to showcase my skills, project
 - Interactive project gallery
 - Downloadable resume
 - Contact form
+ 
